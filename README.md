@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on **Gym Tracker MERN App**<br>👯 I’m looking to collaborate on **Open Source Projects**<br>🌱 I’m currently learning **DSA, MERN**<br>💬 Ask me about **Web Development**<br>⚡ Fun fact **I Play The Guitar**
+🔭 I’m currently working on **Expense Tracker MERN App**<br>👯 I’m looking to collaborate on **Open Source Projects**<br>🌱 I’m currently learning **DSA, MERN**<br>💬 Ask me about **Web Development**<br>⚡ Fun fact **I Play The Guitar**
 
 
 ## 🌐 Socials:
